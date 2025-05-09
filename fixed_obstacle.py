@@ -13,7 +13,7 @@ def call_llm(prompt):
     
     client = OpenAI(
         base_url="https://api.groq.com/openai/v1",
-        api_key="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",
+        api_key="Enter your api key"
     )
     
     completion = client.chat.completions.create(
