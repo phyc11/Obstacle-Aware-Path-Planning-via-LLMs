@@ -1,1 +1,1 @@
-# Obstacle-Aware-Path-Planning-via-LLMs-
+# Obstacle-Aware-Path-Planning-via-LLMs
