@@ -42,7 +42,7 @@ cd Obstacle-Aware-Path-Planning-via-LLMs
 python fixed_obstacle.py
 ```
 
-3. To run fixed_obstacle.py
+3. To run moving_obstacle.py
 
 - Create account and api key in [https://console.groq.com/home](https://console.groq.com/home)
 - Enter your api_key in file moving_obstacle.py
